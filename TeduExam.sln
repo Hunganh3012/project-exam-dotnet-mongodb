@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduExam", "TeduExam\TeduExam.csproj", "{C68A361D-36E3-4F47-A378-EA96D7E25817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C68A361D-36E3-4F47-A378-EA96D7E25817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68A361D-36E3-4F47-A378-EA96D7E25817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68A361D-36E3-4F47-A378-EA96D7E25817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68A361D-36E3-4F47-A378-EA96D7E25817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
