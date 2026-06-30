@@ -18,7 +18,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examination.Domain.UniTests
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examination.Application.UnitTests", "test\Examination\Examination.Application.UnitTests\Examination.Application.UnitTests.csproj", "{F4FF3A69-C269-46EC-BA8A-115B849C1E80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.API.IntergrationTests", "test\Identity.API\Identity.API.IntergrationTests\Identity.API.IntergrationTests.csproj", "{246BACA2-F531-4FF6-8B69-3DF65571D595}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.API.IntergrationTests", "test\Identity\Identity.API.IntergrationTests\Identity.API.IntergrationTests.csproj", "{246BACA2-F531-4FF6-8B69-3DF65571D595}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examination.API.IntergrationTests", "test\Examination\Examination.API.IntergrationTests\Examination.API.IntergrationTests.csproj", "{3492C01E-C3AF-4A33-98B7-B8D533A6A52A}"
 EndProject
