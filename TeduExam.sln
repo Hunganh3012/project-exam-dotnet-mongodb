@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduExam", "TeduExam\TeduExam.csproj", "{C68A361D-36E3-4F47-A378-EA96D7E25817}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.API", "src\Identity.API\Identity.API.csproj", "{EA232EAE-B2AF-43D1-A8B8-034CC0ECB236}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examnination.API", "src\Examnination\Examnination.API\Examnination.API.csproj", "{43650E96-EE21-41D5-BB6F-FCEE7FB1712B}"
@@ -28,10 +26,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C68A361D-36E3-4F47-A378-EA96D7E25817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C68A361D-36E3-4F47-A378-EA96D7E25817}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C68A361D-36E3-4F47-A378-EA96D7E25817}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C68A361D-36E3-4F47-A378-EA96D7E25817}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EA232EAE-B2AF-43D1-A8B8-034CC0ECB236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EA232EAE-B2AF-43D1-A8B8-034CC0ECB236}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA232EAE-B2AF-43D1-A8B8-034CC0ECB236}.Release|Any CPU.ActiveCfg = Release|Any CPU
